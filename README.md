@@ -12,7 +12,7 @@ Devolped unified system
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/microsoft/fluentui/master/apps/public-docsite-v9/src/pages/Styles/images/fluent-hero.png">
+  <img width="100%" src="[https://raw.githubusercontent.com/microsoft/fluentui/master/apps/public-docsite-v9/src/pages/Styles/images/fluent-hero.png](https://cdn.freepixel.com/thumb/free-svg-a-stylized-icon-featuring-a-combination-of-geometr-th-12458-tea-c-os-144172.jpg)">
 </p>
 
 ## 🌍 Reimagining Work in the Age of Autonomous AI
